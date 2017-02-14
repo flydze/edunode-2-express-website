@@ -19,7 +19,7 @@
   "dependencies": {
     "body-parser": "*",
     "express": "*",
-    "pug": "*",
+    "jade": "*",
     "nodemailer": "*"
   }
 }
