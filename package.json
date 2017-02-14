@@ -1,0 +1,25 @@
+{
+  "name": "edunode-2-express-website",
+  "version": "1.0.0",
+  "description": "Nodejs learning course. Project 2. Express website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flydze/edunode-2-express-website.git"
+  },
+  "author": "Valentyn Zozulia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flydze/edunode-2-express-website/issues"
+  },
+  "homepage": "https://github.com/flydze/edunode-2-express-website#readme",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "pug": "*",
+    "nodemailer": "*"
+  }
+}
